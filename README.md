@@ -57,7 +57,7 @@ public static String runSQL(String query) {
 		
   } catch(Exception e) {
     System.out.print("Error: "+e);
-	}
+  }
         
   return jsonResponse.toString();   
         		
@@ -89,7 +89,7 @@ The URL request `http://localhost:8000/api/games` returns all games: <br>
 ```
 [{"name":"Control","id":3}]
 ```
-<br>The URL request `http://localhost:8000/api/games?name='DOOM'` returns game with name="DOOM": <br>
+<br>The URL request `http://localhost:8000/api/games?name='Control'` returns game with name="Control": <br>
 ```
 [{"name":"Control","id":3}]
 ```
