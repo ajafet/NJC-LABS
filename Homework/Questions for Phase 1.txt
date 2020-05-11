@@ -1,0 +1,64 @@
++ Software Development Life Cycle
+ 
+
+- Explain SDLC at a high level: Software Development Life Cycle is a process used by sofware developers to organize the sofware development process. SDLC aims to structurize the development process to be complete within the time and cost estimated. A typical SDLC consits of the following stages: planning, defining, designing, building, testing, and deployment. 
+
+- What is waterfall and why it is still relevant: Waterfall is a software development model thaat breaks down the development process into phases. The Waterfall model consists of the following phases: requirements, design, implementation, verfication and maintenance. This type of SDLC is recommended only when the final product is decided before the developmet process and no changes are allowed during the process. 
+
+- Explain Agile Model with a use case and the role of SCRUM in that: Agile is a software developmet model that is more felxible that other traditional models. Instead of spending a large amount of time planning on a project, Agile instead relies on constant communication with customers to efficiently meet their requirements. For instance, when developing a project the software developer will meet with the customer do discuss the different ways they want to use the software application. Then the software developer takes a certain amount of time to develop the different use cases provided by the customer. Finally, the software developer returns to the customer to show the current state of the software application, and the customer reviews the application. If the customer approves, the changes are kept or re-develop according to their feedback. Scrum is a software development model that takes the main concepts of agile but is more suited for larger teams. 
+
+- Who is Scrum Master: The scrum master is not a traditional project manager, they act ensures that the scrum framework is followed. 
+
+- Differentiate between Product/Sprint Backlog: The product backlog is the breakdown of work to be done for the entire scrum team. The sprint backlog is the list of work the development team must address during the next sprint. 
+
+- What is Epic & Story: Epic is a large task that probably will not be completed in a sprint. Story is a small task that can be completed in a sprint. Epic tasks are usually created at the start and later broken down into stories. 
+
+- What is called Velocity in SCRUM: The total effort a team is capable of in a sprint. The velocity value is composed by evaluating how much a team completes in previous sprints. Velocity is used to understand how much work can be achieved in future sprints. 
+
+- Explain the SCRUM ceremonies: SCRUM consists of four ceremonies which are sprint planning, daily scrum, sprint review, and sprint retrospective. Sprint planning is where the team meets and decides what they need to complete in the coming sprint. Daily SCRUM is a short meedint for the team to make sure they're all on the same page. Sprint review is a meeting where the team demos what they shipped in the sprint. Sprint retrospective is when the team reviews their work by identifying what they did well and what did not go as planed. 
+
+- What is grooming: is the process were the backlog is reviewed/updated to make sure it contains all the appropriate items. 
+
+- How Jira board is effective in SCRUM: Jira provides a real time view of the progress to all SCRUM roles, allowing an organization to verify a product is on track to meet release dates. 
+
+- Differentiate between SCRUM & Waterfall: SCRUM is an agile based SDLC that puts tha main focus on the management and development of the project. SCRUM has a more flexible development process since changes to the requirements can happen during the development phase. Waterfall is a traditional SDLC were its approach is more linear and sequential. Waterfall is more restrictive during the development process since it only welcomes changes at the start and end of the SDLC. 
+
+- Explain the responsibilities of Product Owner: Represents the voice of the customer, is responsible for delivering good business results, manage product backlog and maximize the value that the team delivers. 
+ 
++ Client-Server
+ 
+
+- Tell us about the features of client/server: Data from server can be accessed anywhere with network access, authentication is easier since all data is centralized, and transfering of data is easier through network connection. 
+
+- What is a Web server in a client server environment?: Primary function of a web server is to store, process and deliver web pages to clients. The communication between client and server takes place using the hypertext transfer protocol.  
+
+- What is the role of the presentation layer:
+
+- They say this architecture is secure, how is it done in your opinion?:
+
+- What is a Database Server in a client server environment?:
+
+- What are Super servers in client server environments?:
+
+- Explain 2-Tier and 3-Tier architecture:
+
+- What is a File server?: File server is a central storage place for files that can be accessed to all authorized clients through a network connection. 
+ 
++ SOA & MicroServices
+
+ 
+What are the main benefits of SOA?
+How can you achieve loose coupling in SOA
+Are web services and SOA the same?
+What is a reusable service?
+What are the disadvantages of SOA?
+What is ESB and where does it fit in?
+In SOA do we need to build a system from scratch?
+What is the most important skill needed to adopt SOA ?technical or cultural?
+List down the advantages of Microservices Architecture.
+What are the best practices to design Microservices?
+How does Microservice Architecture work?
+What are the pros and cons of Microservice Architecture?
+What is the difference between Monolithic, SOA and Microservices Architecture?
+What are the challenges you face while working Microservice Architectures?
+What are the characteristics of Microservices?
